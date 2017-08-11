@@ -1,0 +1,5 @@
+D:\Dev\Learning\Shuffle\Randomizer\bin\Debug\Randomizer.dll
+D:\Dev\Learning\Shuffle\Randomizer\bin\Debug\Randomizer.pdb
+D:\Dev\Learning\Shuffle\Randomizer\obj\Debug\Randomizer.csprojResolveAssemblyReference.cache
+D:\Dev\Learning\Shuffle\Randomizer\obj\Debug\Randomizer.dll
+D:\Dev\Learning\Shuffle\Randomizer\obj\Debug\Randomizer.pdb

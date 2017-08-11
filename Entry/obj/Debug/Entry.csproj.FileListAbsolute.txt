@@ -1,0 +1,10 @@
+D:\Dev\Learning\Shuffle\Entry\bin\Debug\Entry.exe.config
+D:\Dev\Learning\Shuffle\Entry\bin\Debug\Entry.exe
+D:\Dev\Learning\Shuffle\Entry\bin\Debug\Entry.pdb
+D:\Dev\Learning\Shuffle\Entry\bin\Debug\Randomizer.dll
+D:\Dev\Learning\Shuffle\Entry\bin\Debug\Shuffler.dll
+D:\Dev\Learning\Shuffle\Entry\bin\Debug\Randomizer.pdb
+D:\Dev\Learning\Shuffle\Entry\bin\Debug\Shuffler.pdb
+D:\Dev\Learning\Shuffle\Entry\obj\Debug\Entry.csprojResolveAssemblyReference.cache
+D:\Dev\Learning\Shuffle\Entry\obj\Debug\Entry.exe
+D:\Dev\Learning\Shuffle\Entry\obj\Debug\Entry.pdb
