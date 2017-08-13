@@ -5,3 +5,8 @@ D:\Dev\Learning\Shuffle\Shuffler\obj\Debug\Shuffler.pdb
 D:\Dev\Learning\Shuffle\Shuffler\bin\Debug\Randomizer.dll
 D:\Dev\Learning\Shuffle\Shuffler\bin\Debug\Randomizer.pdb
 D:\Dev\Learning\Shuffle\Shuffler\obj\Debug\Shuffler.csprojResolveAssemblyReference.cache
+C:\Dev\Training\PokerGame\Shuffler\bin\Debug\Shuffler.dll
+C:\Dev\Training\PokerGame\Shuffler\bin\Debug\Shuffler.pdb
+C:\Dev\Training\PokerGame\Shuffler\obj\Debug\Shuffler.csprojResolveAssemblyReference.cache
+C:\Dev\Training\PokerGame\Shuffler\obj\Debug\Shuffler.dll
+C:\Dev\Training\PokerGame\Shuffler\obj\Debug\Shuffler.pdb

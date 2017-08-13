@@ -67,7 +67,9 @@ namespace Shuffler
 
             while (deck.Cards.Count < 52)
             {
-                var position = Randomizer.Cards.GetRandomCardNumber();
+                var random = new Random();
+                var position = random.Next(1, 53);
+
                 if (!deck.Cards.Contains(_deck[position]))
                 {
                     deck.Cards.Add(_deck[position]);

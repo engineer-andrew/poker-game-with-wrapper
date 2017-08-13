@@ -44,11 +44,5 @@
     <Compile Include="Deck.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Randomizer\Randomizer.csproj">
-      <Project>{9de12fba-b76f-430a-b4cf-e9e3a2d78d79}</Project>
-      <Name>Randomizer</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
