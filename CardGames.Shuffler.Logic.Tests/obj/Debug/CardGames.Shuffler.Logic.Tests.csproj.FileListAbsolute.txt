@@ -1,0 +1,16 @@
+C:\Dev\Training\PokerGame\CardGames.Shuffler.Logic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\Training\PokerGame\CardGames.Shuffler.Logic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\Training\PokerGame\CardGames.Shuffler.Logic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\Training\PokerGame\CardGames.Shuffler.Logic.Tests\bin\Debug\CardGames.Shuffler.Logic.Tests.dll
+C:\Dev\Training\PokerGame\CardGames.Shuffler.Logic.Tests\bin\Debug\CardGames.Shuffler.Logic.Tests.pdb
+C:\Dev\Training\PokerGame\CardGames.Shuffler.Logic.Tests\bin\Debug\CardGames.Shuffler.Logic.dll
+C:\Dev\Training\PokerGame\CardGames.Shuffler.Logic.Tests\bin\Debug\CardGames.Shuffler.Model.dll
+C:\Dev\Training\PokerGame\CardGames.Shuffler.Logic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Dev\Training\PokerGame\CardGames.Shuffler.Logic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Dev\Training\PokerGame\CardGames.Shuffler.Logic.Tests\bin\Debug\CardGames.Shuffler.Logic.pdb
+C:\Dev\Training\PokerGame\CardGames.Shuffler.Logic.Tests\bin\Debug\CardGames.Shuffler.Model.pdb
+C:\Dev\Training\PokerGame\CardGames.Shuffler.Logic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Dev\Training\PokerGame\CardGames.Shuffler.Logic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Dev\Training\PokerGame\CardGames.Shuffler.Logic.Tests\obj\Debug\CardGames.Shuffler.Logic.Tests.csprojResolveAssemblyReference.cache
+C:\Dev\Training\PokerGame\CardGames.Shuffler.Logic.Tests\obj\Debug\CardGames.Shuffler.Logic.Tests.dll
+C:\Dev\Training\PokerGame\CardGames.Shuffler.Logic.Tests\obj\Debug\CardGames.Shuffler.Logic.Tests.pdb
