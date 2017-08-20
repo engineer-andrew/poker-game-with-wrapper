@@ -16,3 +16,11 @@ C:\Dev\Training\PokerGame\Entry\bin\Debug\Shuffler.pdb
 C:\Dev\Training\PokerGame\Entry\obj\Debug\Entry.csprojResolveAssemblyReference.cache
 C:\Dev\Training\PokerGame\Entry\obj\Debug\Entry.exe
 C:\Dev\Training\PokerGame\Entry\obj\Debug\Entry.pdb
+C:\Dev\Training\PokerGameWithWrapper\Entry\obj\Debug\Entry.csprojResolveAssemblyReference.cache
+C:\Dev\Training\PokerGameWithWrapper\Entry\obj\Debug\Entry.exe
+C:\Dev\Training\PokerGameWithWrapper\Entry\obj\Debug\Entry.pdb
+C:\Dev\Training\PokerGameWithWrapper\Entry\bin\Debug\Entry.exe.config
+C:\Dev\Training\PokerGameWithWrapper\Entry\bin\Debug\Entry.exe
+C:\Dev\Training\PokerGameWithWrapper\Entry\bin\Debug\Entry.pdb
+C:\Dev\Training\PokerGameWithWrapper\Entry\bin\Debug\Shuffler.dll
+C:\Dev\Training\PokerGameWithWrapper\Entry\bin\Debug\Shuffler.pdb

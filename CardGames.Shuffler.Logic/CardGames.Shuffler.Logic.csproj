@@ -41,6 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IShuffleCards.cs" />
+    <Compile Include="IWrapRandom.cs" />
+    <Compile Include="RandomWrapper.cs" />
     <Compile Include="Shuffler.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

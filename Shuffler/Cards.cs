@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Shuffler
+namespace POC.Shuffler
 {
     public class Cards
     {

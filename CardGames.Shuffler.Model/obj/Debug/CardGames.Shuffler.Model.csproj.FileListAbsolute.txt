@@ -3,3 +3,7 @@ C:\Dev\Training\PokerGame\CardGames.Shuffler.Model\bin\Debug\CardGames.Shuffler.
 C:\Dev\Training\PokerGame\CardGames.Shuffler.Model\obj\Debug\CardGames.Shuffler.Model.csprojResolveAssemblyReference.cache
 C:\Dev\Training\PokerGame\CardGames.Shuffler.Model\obj\Debug\CardGames.Shuffler.Model.dll
 C:\Dev\Training\PokerGame\CardGames.Shuffler.Model\obj\Debug\CardGames.Shuffler.Model.pdb
+C:\Dev\Training\PokerGameWithWrapper\CardGames.Shuffler.Model\bin\Debug\CardGames.Shuffler.Model.dll
+C:\Dev\Training\PokerGameWithWrapper\CardGames.Shuffler.Model\bin\Debug\CardGames.Shuffler.Model.pdb
+C:\Dev\Training\PokerGameWithWrapper\CardGames.Shuffler.Model\obj\Debug\CardGames.Shuffler.Model.dll
+C:\Dev\Training\PokerGameWithWrapper\CardGames.Shuffler.Model\obj\Debug\CardGames.Shuffler.Model.pdb

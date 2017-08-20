@@ -1,7 +1,7 @@
 ﻿using System;
-using Shuffler;
+using POC.Shuffler;
 
-namespace Entry
+namespace POC.Entry
 {
     class Program
     {
